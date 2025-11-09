@@ -5,14 +5,14 @@
 Analysis on the coffee shop sales trends to determine timelines of low sales vs high sales accross 3 frenchises of the coffee shop
 
 
-## Tools used
+### Tools used
 - Miro: Analysis planning
 - Snowflake: SQL coding
 - Microsoft Excel: Data Analysis
 - Powerpoint: Visualization presentation
 
 
-## Key insights for noting
+### Key insights for noting
 - The shop sales have been consistently making higher sales over the period of 6 months, evidently sales grow as seasons approach winter
 - Hell’s Kitchen generate the most revenue on Tuesdays and Fridays than all the shops
 - Lower Manhattan takes the number 2 spot for revenue it generates on Mondays, but is closely followed by Astoria on the same day
